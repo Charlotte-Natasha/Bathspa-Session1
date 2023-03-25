@@ -14,6 +14,9 @@ This is just a simple example, but the principles of linear regression apply to 
 
 ## Imports
 from sklearn.linear_model import LinearRegression
+
 import pandas as pd
+
 import numpy as np
+
 import matplotlib.pyplot as plt
